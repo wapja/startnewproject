@@ -1,0 +1,27 @@
+{
+  "name": "wapja-seed",
+  "main": "app.js",
+  "version": "0.0.0",
+  "authors": [
+    "FCC <fcornet@ziggo.nl>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.6",
+    "angular-route": "^1.2.14",
+    "bootstrap-css-only": "^3.3.0",
+    "restangular": "^1.4.0",
+    "angular-mocks": "~1.3.7"
+  },
+  "resolutions": {
+    "angular": "1.3.7"
+  }
+}
